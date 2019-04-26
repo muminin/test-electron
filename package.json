@@ -1,0 +1,19 @@
+{
+  "name": "niman",
+  "version": "1.0.0",
+  "description": "niman test",
+  "main": "main.js",
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "electron": "^4.1.4",
+    "electron-prebuilt": "^1.4.13",
+    "jquery": "^3.4.0",
+    "node-notifier": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niman",
+  "license": "ISC"
+}
